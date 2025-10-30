@@ -1,0 +1,2 @@
+# Daily Notes
+Introduce TypeScript interfaces for core data models
